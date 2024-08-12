@@ -1,0 +1,900 @@
+              precision    recall  f1-score   support
+
+           0     0.0000    0.0000    0.0000         2
+           1     1.0000    1.0000    1.0000    324907
+
+    accuracy                         1.0000    324909
+   macro avg     0.5000    0.5000    0.5000    324909
+weighted avg     1.0000    1.0000    1.0000    324909
+
+the total number of samples: 378484
+the number of predicted  samples: 324909
+the percentage of predicted samples:0.8584484416778516
+the number of samples that can not predicted automatically:53575
+the number of predicted positive samples: 324909
+the number of predicted negative samples:0
+**************************************************
+              precision    recall  f1-score   support
+
+           0     0.0000    0.0000    0.0000       248
+           1     0.9998    1.0000    0.9999   1190098
+
+    accuracy                         0.9998   1190346
+   macro avg     0.4999    0.5000    0.4999   1190346
+weighted avg     0.9996    0.9998    0.9997   1190346
+
+the total number of samples: 2124657
+the number of predicted  samples: 1190346
+the percentage of predicted samples:0.5602532549959829
+the number of samples that can not predicted automatically:934311
+the number of predicted positive samples: 1190346
+the number of predicted negative samples:0
+**************************************************
+              precision    recall  f1-score   support
+
+           0     0.0000    0.0000    0.0000         2
+           1     1.0000    1.0000    1.0000    324912
+
+    accuracy                         1.0000    324914
+   macro avg     0.5000    0.5000    0.5000    324914
+weighted avg     1.0000    1.0000    1.0000    324914
+
+the total number of samples: 378484
+the number of predicted  samples: 324914
+the percentage of predicted samples:0.8584616522759219
+the number of samples that can not predicted automatically:53570
+the number of predicted positive samples: 324914
+the number of predicted negative samples:0
+**************************************************
+              precision    recall  f1-score   support
+
+           0     0.0000    0.0000    0.0000         3
+           1     1.0000    1.0000    1.0000    324909
+
+    accuracy                         1.0000    324912
+   macro avg     0.5000    0.5000    0.5000    324912
+weighted avg     1.0000    1.0000    1.0000    324912
+
+the total number of samples: 378484
+the number of predicted  samples: 324912
+the percentage of predicted samples:0.8584563680366938
+the number of samples that can not predicted automatically:53572
+the number of predicted positive samples: 324912
+the number of predicted negative samples:0
+**************************************************
+              precision    recall  f1-score   support
+
+           0     0.0000    0.0000    0.0000         2
+           1     1.0000    1.0000    1.0000    324918
+
+    accuracy                         1.0000    324920
+   macro avg     0.5000    0.5000    0.5000    324920
+weighted avg     1.0000    1.0000    1.0000    324920
+
+the total number of samples: 378484
+the number of predicted  samples: 324920
+the percentage of predicted samples:0.8584775049936061
+the number of samples that can not predicted automatically:53564
+the number of predicted positive samples: 324920
+the number of predicted negative samples:0
+**************************************************
+              precision    recall  f1-score   support
+
+           0     0.0000    0.0000    0.0000      8109
+           1     0.9757    1.0000    0.9877    325160
+
+    accuracy                         0.9757    333269
+   macro avg     0.4878    0.5000    0.4938    333269
+weighted avg     0.9519    0.9757    0.9637    333269
+
+the total number of samples: 378484
+the number of predicted  samples: 333573
+the percentage of predicted samples:0.881339766013887
+the number of samples that can not predicted automatically:44911
+the number of predicted positive samples: 333269
+the number of predicted negative samples:304
+**************************************************
+              precision    recall  f1-score   support
+
+           0     0.0000    0.0000    0.0000       248
+           1     0.9998    1.0000    0.9999   1190097
+
+    accuracy                         0.9998   1190345
+   macro avg     0.4999    0.5000    0.4999   1190345
+weighted avg     0.9996    0.9998    0.9997   1190345
+
+the total number of samples: 2124657
+the number of predicted  samples: 1190345
+the percentage of predicted samples:0.5602527843317768
+the number of samples that can not predicted automatically:934312
+the number of predicted positive samples: 1190345
+the number of predicted negative samples:0
+**************************************************
+              precision    recall  f1-score   support
+
+           0     0.0000    0.0000    0.0000       248
+           1     0.9998    1.0000    0.9999   1190514
+
+    accuracy                         0.9998   1190762
+   macro avg     0.4999    0.5000    0.4999   1190762
+weighted avg     0.9996    0.9998    0.9997   1190762
+
+the total number of samples: 2124657
+the number of predicted  samples: 1190762
+the percentage of predicted samples:0.5604490513056931
+the number of samples that can not predicted automatically:933895
+the number of predicted positive samples: 1190762
+the number of predicted negative samples:0
+**************************************************
+              precision    recall  f1-score   support
+
+           0     0.0000    0.0000    0.0000       248
+           1     0.9998    1.0000    0.9999   1190556
+
+    accuracy                         0.9998   1190804
+   macro avg     0.4999    0.5000    0.4999   1190804
+weighted avg     0.9996    0.9998    0.9997   1190804
+
+the total number of samples: 2124657
+the number of predicted  samples: 1190804
+the percentage of predicted samples:0.5604688192023466
+the number of samples that can not predicted automatically:933853
+the number of predicted positive samples: 1190804
+the number of predicted negative samples:0
+**************************************************
+****************************************************************************************************
+****************************************************************************************************
+              precision    recall  f1-score   support
+
+           0     0.0000    0.0000    0.0000     14873
+           1     0.9564    1.0000    0.9777    326275
+
+    accuracy                         0.9564    341148
+   macro avg     0.4782    0.5000    0.4889    341148
+weighted avg     0.9147    0.9564    0.9351    341148
+
+the total number of samples: 378484
+the number of predicted  samples: 341343
+the percentage of predicted samples:0.9018690354149713
+the number of samples that can not predicted automatically:37141
+the number of predicted positive samples: 341148
+the number of predicted negative samples:195
+****************************************************************************************************
+Formatted date and time: 2024-07-19 10:38:50
+lr:0.001, eps:0.1, threshold:0.3
+****************************************************************************************************
+              precision    recall  f1-score   support
+
+           0     0.0000    0.0000    0.0000     14616
+           1     0.9570    1.0000    0.9781    325663
+
+    accuracy                         0.9570    340279
+   macro avg     0.4785    0.5000    0.4890    340279
+weighted avg     0.9159    0.9570    0.9360    340279
+
+the total number of samples: 378484
+the number of predicted  samples: 340339
+the percentage of predicted samples:0.899216347322476
+the number of samples that can not predicted automatically:38145
+the number of predicted positive samples: 340279
+the number of predicted negative samples:60
+****************************************************************************************************
+Formatted date and time: 2024-07-19 10:41:11
+lr:0.001, eps:0.3, threshold:0.2
+****************************************************************************************************
+              precision    recall  f1-score   support
+
+           0     0.0000    0.0000    0.0000     14888
+           1     0.9564    1.0000    0.9777    326286
+
+    accuracy                         0.9564    341174
+   macro avg     0.4782    0.5000    0.4888    341174
+weighted avg     0.9146    0.9564    0.9350    341174
+
+the total number of samples: 378484
+the number of predicted  samples: 341333
+the percentage of predicted samples:0.9018426142188309
+the number of samples that can not predicted automatically:37151
+the number of predicted positive samples: 341174
+the number of predicted negative samples:159
+****************************************************************************************************
+Formatted date and time: 2024-07-19 10:43:31
+lr:0.01, eps:0.2, threshold:0.2
+****************************************************************************************************
+              precision    recall  f1-score   support
+
+           0     0.0000    0.0000    0.0000      8406
+           1     0.9748    1.0000    0.9873    325605
+
+    accuracy                         0.9748    334011
+   macro avg     0.4874    0.5000    0.4936    334011
+weighted avg     0.9503    0.9748    0.9624    334011
+
+the total number of samples: 378484
+the number of predicted  samples: 334012
+the percentage of predicted samples:0.8824996565244502
+the number of samples that can not predicted automatically:44472
+the number of predicted positive samples: 334011
+the number of predicted negative samples:1
+****************************************************************************************************
+Formatted date and time: 2024-07-19 10:45:50
+lr:0.1, eps:0.1, threshold:0.1
+****************************************************************************************************
+****************************************************************************************************
+Formatted date and time: 2024-07-19 14:42:01
+lr:0.001, eps:0.3, threshold:0.2
+****************************************************************************************************
+              precision    recall  f1-score   support
+
+           0     0.0000    0.0000    0.0000      2202
+           1     0.7689    1.0000    0.8693      7326
+
+    accuracy                         0.7689      9528
+   macro avg     0.3844    0.5000    0.4347      9528
+weighted avg     0.5912    0.7689    0.6684      9528
+
+the total number of samples: 2124657
+the number of predicted  samples: 9604
+the percentage of predicted samples:0.004520259034752433
+the number of samples that can not predicted automatically:2115053
+the number of predicted positive samples: 9528
+the number of predicted negative samples:76
+****************************************************************************************************
+Formatted date and time: 2024-07-19 14:51:44
+lr:0.001, eps:0.3, threshold:0.3
+****************************************************************************************************
+              precision    recall  f1-score   support
+
+           0     0.0000    0.0000    0.0000       168
+           1     0.9775    1.0000    0.9886      7287
+
+    accuracy                         0.9775      7455
+   macro avg     0.4887    0.5000    0.4943      7455
+weighted avg     0.9554    0.9775    0.9663      7455
+
+the total number of samples: 2124657
+the number of predicted  samples: 7470
+the percentage of predicted samples:0.0035158616190754553
+the number of samples that can not predicted automatically:2117187
+the number of predicted positive samples: 7455
+the number of predicted negative samples:15
+****************************************************************************************************
+Formatted date and time: 2024-07-19 15:01:20
+lr:0.01, eps:0.1, threshold:0.3
+****************************************************************************************************
+              precision    recall  f1-score   support
+
+           0     0.0000    0.0000    0.0000       248
+           1     0.9998    1.0000    0.9999   1190076
+
+    accuracy                         0.9998   1190324
+   macro avg     0.4999    0.5000    0.4999   1190324
+weighted avg     0.9996    0.9998    0.9997   1190324
+
+the total number of samples: 2124657
+the number of predicted  samples: 1190324
+the percentage of predicted samples:0.5602429003834501
+the number of samples that can not predicted automatically:934333
+the number of predicted positive samples: 1190324
+the number of predicted negative samples:0
+****************************************************************************************************
+Formatted date and time: 2024-07-19 15:10:54
+lr:0.01, eps:0.2, threshold:0.3
+****************************************************************************************************
+              precision    recall  f1-score   support
+
+           0     0.0000    0.0000    0.0000       248
+           1     0.9998    1.0000    0.9999   1190517
+
+    accuracy                         0.9998   1190765
+   macro avg     0.4999    0.5000    0.4999   1190765
+weighted avg     0.9996    0.9998    0.9997   1190765
+
+the total number of samples: 2124657
+the number of predicted  samples: 1190765
+the percentage of predicted samples:0.5604504632983112
+the number of samples that can not predicted automatically:933892
+the number of predicted positive samples: 1190765
+the number of predicted negative samples:0
+****************************************************************************************************
+Formatted date and time: 2024-07-19 15:20:37
+lr:0.01, eps:0.1, threshold:0.3
+****************************************************************************************************
+              precision    recall  f1-score   support
+
+           0     0.0000    0.0000    0.0000       248
+           1     0.9998    1.0000    0.9999   1190065
+
+    accuracy                         0.9998   1190313
+   macro avg     0.4999    0.5000    0.4999   1190313
+weighted avg     0.9996    0.9998    0.9997   1190313
+
+the total number of samples: 2124657
+the number of predicted  samples: 1190313
+the percentage of predicted samples:0.5602377230771838
+the number of samples that can not predicted automatically:934344
+the number of predicted positive samples: 1190313
+the number of predicted negative samples:0
+****************************************************************************************************
+Formatted date and time: 2024-07-19 15:30:13
+lr:0.1, eps:0.1, threshold:0.1
+****************************************************************************************************
+****************************************************************************************************
+Formatted date and time: 2024-07-22 15:33:57
+lr:0.001, eps:0.3, threshold:0.1
+****************************************************************************************************
+              precision    recall  f1-score   support
+
+           0     0.0000    0.0000    0.0000     14867
+           1     0.9564    1.0000    0.9777    325985
+
+    accuracy                         0.9564    340852
+   macro avg     0.4782    0.5000    0.4889    340852
+weighted avg     0.9147    0.9564    0.9351    340852
+
+the total number of samples: 378484
+the number of predicted  samples: 340999
+the percentage of predicted samples:0.9009601462677418
+the number of samples that can not predicted automatically:37485
+the number of predicted positive samples: 340852
+the number of predicted negative samples:147
+              precision    recall  f1-score   support
+
+           0     0.0000    0.0000    0.0000     14755
+           1     0.9567    1.0000    0.9779    325909
+
+    accuracy                         0.9567    340664
+   macro avg     0.4783    0.5000    0.4889    340664
+weighted avg     0.9153    0.9567    0.9355    340664
+
+the total number of samples: 378484
+the number of predicted  samples: 340754
+the percentage of predicted samples:0.9003128269623022
+the number of samples that can not predicted automatically:37730
+the number of predicted positive samples: 340664
+the number of predicted negative samples:90
+**************************************************
+              precision    recall  f1-score   support
+
+           0     0.0000    0.0000    0.0000    211874
+           1     0.0563    1.0000    0.1066     12646
+
+    accuracy                         0.0563    224520
+   macro avg     0.0282    0.5000    0.0533    224520
+weighted avg     0.0032    0.0563    0.0060    224520
+
+the total number of samples: 304471
+the number of predicted  samples: 277383
+the percentage of predicted samples:0.9110325778152928
+the number of samples that can not predicted automatically:27088
+the number of predicted positive samples: 224520
+the number of predicted negative samples:52863
+**************************************************
+              precision    recall  f1-score   support
+
+           0     0.0000    0.0000    0.0000    211898
+           1     0.0551    1.0000    0.1044     12349
+
+    accuracy                         0.0551    224247
+   macro avg     0.0275    0.5000    0.0522    224247
+weighted avg     0.0030    0.0551    0.0057    224247
+
+the total number of samples: 304471
+the number of predicted  samples: 276994
+the percentage of predicted samples:0.9097549520315563
+the number of samples that can not predicted automatically:27477
+the number of predicted positive samples: 224247
+the number of predicted negative samples:52747
+**************************************************
+              precision    recall  f1-score   support
+
+           0     0.0000    0.0000    0.0000    212176
+           1     0.0561    1.0000    0.1063     12616
+
+    accuracy                         0.0561    224792
+   macro avg     0.0281    0.5000    0.0531    224792
+weighted avg     0.0031    0.0561    0.0060    224792
+
+the total number of samples: 304471
+the number of predicted  samples: 277740
+the percentage of predicted samples:0.9122051032774878
+the number of samples that can not predicted automatically:26731
+the number of predicted positive samples: 224792
+the number of predicted negative samples:52948
+**************************************************
+              precision    recall  f1-score   support
+
+           0     0.0000    0.0000    0.0000    209211
+           1     0.0584    1.0000    0.1103     12974
+
+    accuracy                         0.0584    222185
+   macro avg     0.0292    0.5000    0.0552    222185
+weighted avg     0.0034    0.0584    0.0064    222185
+
+the total number of samples: 304471
+the number of predicted  samples: 277872
+the percentage of predicted samples:0.9126386421038457
+the number of samples that can not predicted automatically:26599
+the number of predicted positive samples: 222185
+the number of predicted negative samples:55687
+**************************************************
+              precision    recall  f1-score   support
+
+           0     0.0000    0.0000    0.0000        16
+           1     0.4059    0.3037    0.3475       270
+           2     0.1111    0.0233    0.0385        43
+           3     0.0000    0.0000    0.0000         2
+           4     0.0000    0.0000    0.0000        11
+           5     0.0000    0.0000    0.0000         2
+           6     0.0000    0.0000    0.0000         3
+           7     0.4444    0.4000    0.4211        30
+           8     0.1667    0.0170    0.0309       176
+           9     0.3290    0.2028    0.2509       498
+          10     0.0000    0.0000    0.0000         2
+          11     1.0000    0.0833    0.1538        12
+          12     0.0000    0.0000    0.0000         6
+          13     0.0769    0.0500    0.0606        20
+          14     0.0000    0.0000    0.0000         1
+          15     0.2105    0.3478    0.2623        23
+          16     0.0000    0.0000    0.0000         1
+          17     0.6214    0.8447    0.7160       103
+          18     0.5000    0.2759    0.3556        58
+          19     0.0000    0.0000    0.0000        25
+          20     0.5507    0.6909    0.6129       110
+          21     0.5000    0.1282    0.2041        39
+          22     0.2000    0.2121    0.2059        33
+          23     0.0000    0.0000    0.0000         5
+          24     0.7857    0.6471    0.7097        17
+          25     0.8000    0.8571    0.8276        28
+          26     0.0000    0.0000    0.0000         4
+          28     0.0000    0.0000    0.0000         3
+          29     0.0000    0.0000    0.0000         4
+          30     0.6947    0.9024    0.7850     24069
+          31     0.0000    0.0000    0.0000        59
+          34     0.4901    0.3795    0.4277       195
+          36     0.0000    0.0000    0.0000         6
+          37     0.0000    0.0000    0.0000         2
+          38     0.0000    0.0000    0.0000        22
+          39     0.0000    0.0000    0.0000         1
+          41     0.0000    0.0000    0.0000         2
+          42     0.0000    0.0000    0.0000         2
+          45     0.7881    0.4140    0.5429      3019
+          46     0.4930    0.7132    0.5830      3020
+          47     0.0000    0.0000    0.0000         1
+          49     0.4885    0.8513    0.6208      1197
+          50     0.0000    0.0000    0.0000        25
+          51     0.5882    0.0549    0.1005       182
+          53     0.7895    0.8571    0.8219        70
+          54     0.4231    0.0579    0.1019       190
+          55     0.7748    0.6266    0.6929     25686
+          56     0.0000    0.0000    0.0000        65
+          57     0.5957    0.0153    0.0298      1831
+          58     0.0000    0.0000    0.0000       175
+          59     0.6713    0.6582    0.6647      1182
+          60     0.0000    0.0000    0.0000         7
+          61     0.3846    0.2381    0.2941        21
+          62     0.6188    0.5869    0.6024       213
+          63     0.0000    0.0000    0.0000        19
+          64     0.0000    0.0000    0.0000         8
+          65     0.0000    0.0000    0.0000         7
+          66     0.0000    0.0000    0.0000         6
+          67     0.0000    0.0000    0.0000         1
+          68     0.4412    0.3614    0.3974        83
+          69     0.4426    0.2727    0.3375        99
+          70     0.0000    0.0000    0.0000        10
+          71     0.7500    0.3140    0.4426        86
+          72     0.8453    0.6438    0.7309      1443
+          73     0.9475    0.9835    0.9652     11535
+          74     0.3333    0.9091    0.4878        33
+
+    accuracy                         0.7377     76117
+   macro avg     0.2767    0.2261    0.2246     76117
+weighted avg     0.7396    0.7377    0.7194     76117
+
+              precision    recall  f1-score   support
+
+           0     0.0000    0.0000    0.0000     67566
+           1     0.0410    1.0000    0.0789      2892
+
+    accuracy                         0.0410     70458
+   macro avg     0.0205    0.5000    0.0394     70458
+weighted avg     0.0017    0.0410    0.0032     70458
+
+the total number of samples: 76117
+the number of predicted  samples: 70514
+the percentage of predicted samples:0.9263896370061878
+the number of samples that can not predicted automatically:5603
+the number of predicted positive samples: 70458
+the number of predicted negative samples:56
+**************************************************
+              precision    recall  f1-score   support
+
+           0     0.0000    0.0000    0.0000         2
+           1     0.9992    1.0000    0.9996      2404
+
+    accuracy                         0.9992      2406
+   macro avg     0.4996    0.5000    0.4998      2406
+weighted avg     0.9983    0.9992    0.9988      2406
+
+the total number of samples: 76117
+the number of predicted  samples: 2463
+the percentage of predicted samples:0.03235808032371218
+the number of samples that can not predicted automatically:73654
+the number of predicted positive samples: 2406
+the number of predicted negative samples:57
+**************************************************
+              precision    recall  f1-score   support
+
+           0     0.0000    0.0000    0.0000        24
+           1     0.3913    0.1222    0.1862       221
+           2     0.2500    0.0294    0.0526        34
+           3     0.0000    0.0000    0.0000         4
+           4     0.0000    0.0000    0.0000        15
+           5     0.0000    0.0000    0.0000         3
+           6     0.0000    0.0000    0.0000         6
+           7     0.3492    0.4231    0.3826        52
+           8     0.3043    0.0393    0.0697       178
+           9     0.4167    0.2108    0.2800       498
+          10     0.0000    0.0000    0.0000         4
+          11     0.0000    0.0000    0.0000        25
+          12     0.0000    0.0000    0.0000         8
+          13     0.1667    0.0256    0.0444        39
+          14     0.0000    0.0000    0.0000         2
+          15     0.1932    0.2576    0.2208        66
+          16     0.0000    0.0000    0.0000        13
+          17     0.6263    0.7126    0.6667        87
+          18     0.3571    0.2206    0.2727        68
+          19     0.0000    0.0000    0.0000        28
+          20     0.4240    0.5521    0.4796        96
+          21     0.4211    0.1379    0.2078        58
+          22     0.4300    0.4725    0.4503        91
+          23     0.0000    0.0000    0.0000        11
+          24     0.9032    0.8485    0.8750        33
+          25     0.8333    0.8333    0.8333        30
+          26     0.0000    0.0000    0.0000         3
+          27     0.0000    0.0000    0.0000         1
+          28     0.0000    0.0000    0.0000        11
+          29     0.0000    0.0000    0.0000         5
+          30     0.7188    0.7880    0.7518     15440
+          31     0.0000    0.0000    0.0000        54
+          32     0.0000    0.0000    0.0000         1
+          34     0.5714    0.2424    0.3404       198
+          35     0.0000    0.0000    0.0000         6
+          36     0.0000    0.0000    0.0000         5
+          37     0.0000    0.0000    0.0000         9
+          38     0.0000    0.0000    0.0000        27
+          39     0.0000    0.0000    0.0000         2
+          40     0.0000    0.0000    0.0000         1
+          41     0.0000    0.0000    0.0000         7
+          42     0.0000    0.0000    0.0000         2
+          44     0.0000    0.0000    0.0000         1
+          45     0.7032    0.4841    0.5734      7216
+          46     0.6689    0.4945    0.5686      7220
+          47     0.0000    0.0000    0.0000         1
+          48     0.0000    0.0000    0.0000         4
+          49     0.4910    0.8094    0.6112      1081
+          50     0.0000    0.0000    0.0000        10
+          51     0.3071    0.5175    0.3854       143
+          53     0.6768    0.8701    0.7614        77
+          54     0.4375    0.0422    0.0769       166
+          55     0.6158    0.7587    0.6798     21660
+          56     0.0000    0.0000    0.0000       102
+          57     0.4474    0.0534    0.0955      1591
+          58     0.0000    0.0000    0.0000       470
+          59     0.6738    0.6494    0.6614      1024
+          60     0.0000    0.0000    0.0000         4
+          61     0.3333    0.0357    0.0645        28
+          62     0.6260    0.5066    0.5600       152
+          63     0.0000    0.0000    0.0000         7
+          64     0.0000    0.0000    0.0000        15
+          65     0.0000    0.0000    0.0000        11
+          66     0.0000    0.0000    0.0000         6
+          67     0.0000    0.0000    0.0000         1
+          68     0.4872    0.2879    0.3619        66
+          69     0.6047    0.3250    0.4228        80
+          70     0.0000    0.0000    0.0000         7
+          71     0.8250    0.4714    0.6000        70
+          72     0.7378    0.7418    0.7398      1464
+          73     0.9668    0.9745    0.9706     15938
+          74     0.5536    0.8378    0.6667        37
+
+    accuracy                         0.7186     76118
+   macro avg     0.2432    0.2052    0.2071     76118
+weighted avg     0.7086    0.7186    0.7026     76118
+
+              precision    recall  f1-score   support
+
+           0     0.0000    0.0000    0.0000     66917
+           1     0.0448    1.0000    0.0858      3140
+
+    accuracy                         0.0448     70057
+   macro avg     0.0224    0.5000    0.0429     70057
+weighted avg     0.0020    0.0448    0.0038     70057
+
+the total number of samples: 76118
+the number of predicted  samples: 70090
+the percentage of predicted samples:0.9208071678183872
+the number of samples that can not predicted automatically:6028
+the number of predicted positive samples: 70057
+the number of predicted negative samples:33
+**************************************************
+              precision    recall  f1-score   support
+
+           0     0.0000    0.0000    0.0000     66961
+           1     0.0444    1.0000    0.0850      3111
+
+    accuracy                         0.0444     70072
+   macro avg     0.0222    0.5000    0.0425     70072
+weighted avg     0.0020    0.0444    0.0038     70072
+
+the total number of samples: 76118
+the number of predicted  samples: 70072
+the percentage of predicted samples:0.9205706928715941
+the number of samples that can not predicted automatically:6046
+the number of predicted positive samples: 70072
+the number of predicted negative samples:0
+**************************************************
+              precision    recall  f1-score   support
+
+           0     0.0000    0.0000    0.0000         2
+           1     0.9990    1.0000    0.9995      1903
+
+    accuracy                         0.9990      1905
+   macro avg     0.4995    0.5000    0.4997      1905
+weighted avg     0.9979    0.9990    0.9984      1905
+
+the total number of samples: 76118
+the number of predicted  samples: 70040
+the percentage of predicted samples:0.9201502929661841
+the number of samples that can not predicted automatically:6078
+the number of predicted positive samples: 1905
+the number of predicted negative samples:68135
+**************************************************
+              precision    recall  f1-score   support
+
+           0     0.0000    0.0000    0.0000         2
+           1     0.9990    1.0000    0.9995      1936
+
+    accuracy                         0.9990      1938
+   macro avg     0.4995    0.5000    0.4997      1938
+weighted avg     0.9979    0.9990    0.9985      1938
+
+the total number of samples: 76118
+the number of predicted  samples: 70050
+the percentage of predicted samples:0.9202816679366247
+the number of samples that can not predicted automatically:6068
+the number of predicted positive samples: 1938
+the number of predicted negative samples:68112
+**************************************************
+              precision    recall  f1-score   support
+
+           0     0.0000    0.0000    0.0000         7
+           1     0.9977    1.0000    0.9988      3010
+
+    accuracy                         0.9977      3017
+   macro avg     0.4988    0.5000    0.4994      3017
+weighted avg     0.9954    0.9977    0.9965      3017
+
+the total number of samples: 114177
+the number of predicted  samples: 105776
+the percentage of predicted samples:0.9264212582218836
+the number of samples that can not predicted automatically:8401
+the number of predicted positive samples: 3017
+the number of predicted negative samples:102759
+**************************************************
+              precision    recall  f1-score   support
+
+           0     0.2121    0.4375    0.2857        16
+           1     0.5417    0.1444    0.2281       270
+           2     0.2500    0.0233    0.0426        43
+           3     0.0000    0.0000    0.0000         2
+           4     0.0000    0.0000    0.0000        11
+           5     0.0000    0.0000    0.0000         2
+           6     0.0000    0.0000    0.0000         3
+           7     0.5455    0.2000    0.2927        30
+           8     0.2500    0.0057    0.0111       176
+           9     0.3175    0.3635    0.3390       498
+          10     0.0000    0.0000    0.0000         2
+          11     0.3333    0.0833    0.1333        12
+          12     0.0000    0.0000    0.0000         6
+          13     0.4000    0.2000    0.2667        20
+          14     0.0000    0.0000    0.0000         1
+          15     0.0000    0.0000    0.0000        23
+          16     0.0000    0.0000    0.0000         1
+          17     0.5909    0.8835    0.7082       103
+          18     0.5789    0.1897    0.2857        58
+          19     0.0000    0.0000    0.0000        25
+          20     0.6091    0.6091    0.6091       110
+          21     0.4286    0.2308    0.3000        39
+          22     0.2439    0.3030    0.2703        33
+          23     0.0000    0.0000    0.0000         5
+          24     0.8333    0.5882    0.6897        17
+          25     0.7812    0.8929    0.8333        28
+          26     0.0000    0.0000    0.0000         4
+          28     0.0000    0.0000    0.0000         3
+          29     0.0000    0.0000    0.0000         4
+          30     0.6795    0.9614    0.7962     24069
+          31     0.0000    0.0000    0.0000        59
+          34     0.5271    0.3487    0.4198       195
+          36     0.0000    0.0000    0.0000         6
+          37     0.0000    0.0000    0.0000         2
+          38     0.0000    0.0000    0.0000        22
+          39     0.0000    0.0000    0.0000         1
+          41     0.0000    0.0000    0.0000         2
+          42     0.0000    0.0000    0.0000         2
+          45     0.4636    0.8774    0.6067      3019
+          46     0.7067    0.5321    0.6071      3020
+          47     0.0000    0.0000    0.0000         1
+          49     0.5410    0.7393    0.6248      1197
+          50     0.0000    0.0000    0.0000        25
+          51     0.5385    0.0769    0.1346       182
+          53     0.7763    0.8429    0.8082        70
+          54     0.5000    0.0421    0.0777       190
+          55     0.8632    0.5385    0.6632     25686
+          56     0.0000    0.0000    0.0000        65
+          57     0.5135    0.0104    0.0203      1831
+          58     0.0000    0.0000    0.0000       175
+          59     0.5840    0.7411    0.6532      1182
+          60     0.0000    0.0000    0.0000         7
+          61     0.2692    0.6667    0.3836        21
+          62     0.6387    0.7136    0.6741       213
+          63     0.0000    0.0000    0.0000        19
+          64     0.0000    0.0000    0.0000         8
+          65     0.0000    0.0000    0.0000         7
+          66     0.0000    0.0000    0.0000         6
+          67     0.0000    0.0000    0.0000         1
+          68     0.5000    0.1687    0.2523        83
+          69     0.4643    0.2626    0.3355        99
+          70     0.0000    0.0000    0.0000        10
+          71     0.5949    0.5465    0.5697        86
+          72     0.7484    0.7505    0.7495      1443
+          73     0.9616    0.9672    0.9644     11535
+          74     0.6129    0.5758    0.5938        33
+
+    accuracy                         0.7374     76117
+   macro avg     0.2788    0.2351    0.2308     76117
+weighted avg     0.7590    0.7374    0.7166     76117
+
+              precision    recall  f1-score   support
+
+           1     1.0000    1.0000    1.0000      2130
+
+    accuracy                         1.0000      2130
+   macro avg     1.0000    1.0000    1.0000      2130
+weighted avg     1.0000    1.0000    1.0000      2130
+
+the total number of samples: 76117
+the number of predicted  samples: 70367
+the percentage of predicted samples:0.9244583995690845
+the number of samples that can not predicted automatically:5750
+the number of predicted positive samples: 2130
+the number of predicted negative samples:68237
+**************************************************
+              precision    recall  f1-score   support
+
+           0     0.0000    0.0000    0.0000         3
+           1     0.9993    1.0000    0.9996      4230
+
+    accuracy                         0.9993      4233
+   macro avg     0.4996    0.5000    0.4998      4233
+weighted avg     0.9986    0.9993    0.9989      4233
+
+the total number of samples: 152236
+the number of predicted  samples: 140165
+the percentage of predicted samples:0.9207086365905568
+the number of samples that can not predicted automatically:12071
+the number of predicted positive samples: 4233
+the number of predicted negative samples:135932
+**************************************************
+              precision    recall  f1-score   support
+
+           0     0.9829    1.0000    0.9914    133615
+           1     0.9993    0.6457    0.7845      6553
+
+    accuracy                         0.9834    140168
+   macro avg     0.9911    0.8228    0.8879    140168
+weighted avg     0.9837    0.9834    0.9817    140168
+
+the total number of samples: 152236
+the number of predicted  samples: 140168
+the percentage of predicted samples:0.9207283428361228
+the number of samples that can not predicted automatically:12068
+the number of predicted positive samples: 4234
+the number of predicted negative samples:135934
+**************************************************
+              precision    recall  f1-score   support
+
+           0     0.9956    0.0017    0.0034    134138
+           1     0.0482    0.9999    0.0920      6783
+
+    accuracy                         0.0497    140921
+   macro avg     0.5219    0.5008    0.0477    140921
+weighted avg     0.9500    0.0497    0.0076    140921
+
+the total number of samples: 152236
+the number of predicted  samples: 140921
+the percentage of predicted samples:0.9256746104732126
+the number of samples that can not predicted automatically:11315
+the number of predicted positive samples: 140693
+the number of predicted negative samples:228
+**************************************************
+              precision    recall  f1-score   support
+
+           0     0.9829    0.9999    0.9913    134146
+           1     0.9962    0.6552    0.7905      6783
+
+    accuracy                         0.9833    140929
+   macro avg     0.9895    0.8275    0.8909    140929
+weighted avg     0.9835    0.9833    0.9816    140929
+
+the total number of samples: 152236
+the number of predicted  samples: 140929
+the percentage of predicted samples:0.9257271604613889
+the number of samples that can not predicted automatically:11307
+the number of predicted positive samples: 4461
+the number of predicted negative samples:136468
+**************************************************
+              precision    recall  f1-score   support
+
+           0     0.9814    0.9999    0.9906    133771
+           1     0.9958    0.6146    0.7601      6577
+
+    accuracy                         0.9818    140348
+   macro avg     0.9886    0.8072    0.8753    140348
+weighted avg     0.9821    0.9818    0.9797    140348
+
+the total number of samples: 152236
+the number of predicted  samples: 140348
+the percentage of predicted samples:0.9219107175700886
+the number of samples that can not predicted automatically:11888
+the number of predicted positive samples: 4059
+the number of predicted negative samples:136289
+**************************************************
+              precision    recall  f1-score   support
+
+           0     0.9832    1.0000    0.9915    129469
+           1     0.9992    0.5373    0.6988      4770
+
+    accuracy                         0.9835    134239
+   macro avg     0.9912    0.7687    0.8452    134239
+weighted avg     0.9838    0.9835    0.9811    134239
+
+the total number of samples: 152236
+the number of predicted  samples: 134239
+the percentage of predicted samples:0.8817822328489976
+the number of samples that can not predicted automatically:17997
+the number of predicted positive samples: 2565
+the number of predicted negative samples:131674
+**************************************************
+              precision    recall  f1-score   support
+
+           0     0.9834    1.0000    0.9916    130568
+           1     0.9992    0.3614    0.5308      3448
+
+    accuracy                         0.9836    134016
+   macro avg     0.9913    0.6807    0.7612    134016
+weighted avg     0.9838    0.9836    0.9798    134016
+
+the total number of samples: 152236
+the number of predicted  samples: 134016
+the percentage of predicted samples:0.8803174019285845
+the number of samples that can not predicted automatically:18220
+the number of predicted positive samples: 1247
+the number of predicted negative samples:132769
+**************************************************
+              precision    recall  f1-score   support
+
+           0     0.9834    1.0000    0.9916    130732
+           1     0.9993    0.4039    0.5753      3711
+
+    accuracy                         0.9835    134443
+   macro avg     0.9913    0.7020    0.7835    134443
+weighted avg     0.9838    0.9835    0.9801    134443
+
+the total number of samples: 152236
+the number of predicted  samples: 134443
+the percentage of predicted samples:0.8831222575474921
+the number of samples that can not predicted automatically:17793
+the number of predicted positive samples: 1500
+the number of predicted negative samples:132943
+**************************************************
