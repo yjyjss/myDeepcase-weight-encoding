@@ -10,7 +10,7 @@ from tqdm              import tqdm
 
 from .cluster import Cluster
 from .utils   import group_by, unique_2d, sp_unique,plot_k_distance
-
+import pdb
 # Set logger
 logger = logging.getLogger(__name__)
 
@@ -56,6 +56,7 @@ class Interpreter(object):
         self.events   = np.zeros(0)
         self.tree     = dict()
         self.labels   = dict()
+        self.oriIndex = dict() # Added by Jia for reverse indexing
 
     ########################################################################
     #                         Fit/Predict methods                          #
@@ -194,6 +195,8 @@ class Interpreter(object):
 
         # Initialise result
         result = np.full(vectors.shape[0], -4, dtype=float)
+        # Initialise array to store the index in the training corpus. Added by Jia
+        indexIncorpus_ = np.full(vectors.shape[0],-1,dtype=int)
 
         ####################################################################
         #                   Find closest known sequences                   #
@@ -238,6 +241,21 @@ class Interpreter(object):
             scores = np.asarray([
                 self.labels[event][neighbour] for neighbour in neighbours
             ])
+            
+            
+            # find the most similar samples in the training corpus. Added by Jia for ollama
+            
+            
+            # indexInevent = np.asarray([self.oriIndex[event][neighbour][0] for neighbour in neighbours])
+            # indexIncorpus_[indices] = indexInevent[inverse]
+            
+            indexInevent = np.asarray([self.oriIndex[event][neighbour][0] for neighbour in neighbours],dtype=obejct)
+            indexIncorpus_[indices] = indexInevent[inverse]
+            
+        
+            
+            
+            
 
             ############################################################
             #               Set result, based on epsilon               #
@@ -257,9 +275,14 @@ class Interpreter(object):
         result_ = np.full(X.shape[0], -1, dtype=float)
         result_[mask.cpu().numpy()] = result
         result = result_
+        
+        # Added by Jia
+        indexIncorpus = np.full(X.shape[0],-1,dtype=int)
+        indexIncorpus[mask.cpu().numpy()] = indexIncorpus_
+        
 
         # Return result
-        return result[inverse_result.cpu().numpy()]
+        return result[inverse_result.cpu().numpy()], indexIncorpus[inverse_result.cpu().numpy()] # 需要将上一步score中返回的索引唯一化
 
 
     def fit_predict(self,
@@ -392,7 +415,7 @@ class Interpreter(object):
         )
 
         # Add verbosity if necessary
-        if verbose: indices_y = tqdm(indices_y, desc="Clustering      ")
+        if verbose: indices_y = tqdm(indices_y, desc="Clustering")
 
         ####################################################################
         #                          Cluster events                          #
@@ -493,6 +516,9 @@ class Interpreter(object):
 
         # Retrieve scores for clustered events only
         scores = scores[self.clusters != -1]
+        
+        # The indexes of clustered events in original events. Added by Jia for reverse indexing
+        clustered_index = np.where(self.clusters != -1)[0]
 
         # Compute clustered events
         clustered_events = group_by(self.events[self.clusters != -1])
@@ -513,6 +539,8 @@ class Interpreter(object):
 
             # Compute scores for given tree indices
             self.labels[event] = dict()
+            self.oriIndex[event] = dict() # Added by Jia for reverse indexing
+            
             score = scores[indices]
             data, index_tree, _, _ = self.tree[event].get_arrays()
             _, index_vector = zip(*group_by(inverse))
@@ -520,6 +548,10 @@ class Interpreter(object):
 
             for index, mapping in zip(index_tree, index_vector):
                 self.labels[event][index] = score[mapping].max()
+                # for reverse indexing by Jia
+                clustered_event_index = indices[mapping]
+                ori_index             = clustered_index[clustered_event_index]
+                self.oriIndex[event][index] = ori_index
 
         # Return self
         return self
